@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/anil-grexit/codathon.svg?branch=master)](https://travis-ci.org/anil-grexit/codathon)
+
 # TeamC
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) that Anil &amp; Siddharth&#x27;s Github App for Hiver Codathon
